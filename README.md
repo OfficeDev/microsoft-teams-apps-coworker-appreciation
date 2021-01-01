@@ -4,21 +4,22 @@ languages:
 - PowerApps
 products:
 - office-teams
-description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
+description: Enables people to congratulate their colleagues inside Teams and record and tally congraluations for each colleague in a leaderboard
 urlFragment: microsoft-teams-app-inspection
 ---
 
-# Inspection App Template
+# Co-Worker Appreciation App Template
 
-| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
+| [Overview](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki/Architecture) |
 | ---- | ---- | ---- |
 
-The Inspection solution for Microsoft Teams is a general inspection app that can be used to inspect anything from a location—such as a retail store or manufacturing plant—to assets and equipment, such as vehicles and machines. There are two apps in this solution, each intended for different kinds of users.
+Using the co-worker appreciation template in Microsoft teams, users can recognize their colleague's achievements right within the Teams' context. WHen they can click to reward a colleague, recipients and other team members are notified about the award details in the channel by tagging them in a channel conversation. 
 
-### Key features
-* **Inspection:** Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
-* **Communication:** Facilitates communication between team members to address issues found during inspection
-* **Reporting:** Provides simple reports for managers to expedite issue resolution and highlight trends
+The awards are recorded in the team app which is secure, portable and easily shareable.
+
+This can be considered as the PowerApps based, leader-board version of the Open Badges app template.
+
+
 
 ## Get started
 This app can be accessed in the Teams Store under "Inspection". The purpose of this GitHub repo is to make the code available to those who want to modify the code and extend the app (e.g., connect the database to your own internal databse).
