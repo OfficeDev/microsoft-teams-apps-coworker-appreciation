@@ -1,14 +1,31 @@
-# Project
+---
+page_type: sample
+languages:
+- PowerApps
+products:
+- office-teams
+description: Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
+urlFragment: microsoft-teams-app-inspection
+---
 
-> This repo has been populated by an initial template to help get you started. Please
-> make sure to update the content to build a great experience for community-building.
+# Inspection App Template
 
-As the maintainer of this project, please make a few updates:
+| [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Architecture) |
+| ---- | ---- | ---- |
 
-- Improving this README.MD file to provide a great experience
-- Updating SUPPORT.MD with content about this project's support experience
-- Understanding the security reporting process in SECURITY.MD
-- Remove this section from the README
+The Inspection solution for Microsoft Teams is a general inspection app that can be used to inspect anything from a location—such as a retail store or manufacturing plant—to assets and equipment, such as vehicles and machines. There are two apps in this solution, each intended for different kinds of users.
+
+### Key features
+* **Inspection:** Enables front line workers to inspect an asset or area to manage quality of products and services or maintain safety at workplace
+* **Communication:** Facilitates communication between team members to address issues found during inspection
+* **Reporting:** Provides simple reports for managers to expedite issue resolution and highlight trends
+
+## Get started
+This app can be accessed in the Teams Store under "Inspection". The purpose of this GitHub repo is to make the code available to those who want to modify the code and extend the app (e.g., connect the database to your own internal databse).
+
+Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
+
+When you're ready to try out Company Communicator, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide).
 
 ## Contributing
 
