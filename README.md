@@ -20,7 +20,6 @@ The awards are recorded in the team app which is secure, portable and easily sha
 This can be considered as the PowerApps based, leader-board version of the Open Badges app template.
 
 ![Overall](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/blob/main/Coworker%20Appreciation%20Demo%20Image%202.png)
-![In Teams](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/blob/main/Coworker%20Appreciation%20Demo%20Image.png)
 
 
 ## Get started
