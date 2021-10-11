@@ -27,7 +27,7 @@ This app can be accessed in the Teams Store under "Inspection". The purpose of t
 
 Begin with the [Solution overview](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Documentation) to read about what the app does and how it works.
 
-When you're ready to try out Company Communicator, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-inspection/wiki/Deployment-Guide).
+When you're ready to try out Co-worker Appreciation App, or to use it in your own organization, follow the steps in the [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-coworker-appreciation/wiki/Deployment-Guide).
 
 ## Contributing
 
